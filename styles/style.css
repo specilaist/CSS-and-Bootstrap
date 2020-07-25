@@ -1,8 +1,12 @@
 .image {
-      position: relative;
       width: 100%;
       height: 500px;
       margin-bottom: 30px;
+      
+}
+
+#projects {
+      display: flex;
       
 }
 
@@ -10,8 +14,11 @@
       width: 100%;
       height: 100px;
       background-color: burlywood;
-      float: left;
-      position: relative;
+      float: right;
+}
+
+.banner-text {
+      font: 50px;
 }
 
 .container {
