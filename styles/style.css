@@ -5,20 +5,32 @@
       
 }
 
+#ebansName {
+      background-color: #537339;
+      margin: auto;
+      justify-content: center;
+      margin-left: 0px;
+}
+
+#navbar {
+      background-color: #e4f7d2;
+}
+
 #projects {
-      display: flex;
+      position: relative;
       
 }
 
 .banner {
-      width: 100%;
+      position: absolute;
+      width: 94%;
       height: 100px;
       background-color: burlywood;
-      float: right;
+      float: none;
+      bottom: 40px;
 }
-
-.banner-text {
-      font: 50px;
+#rock {
+      justify-content: center;
 }
 
 .container {
